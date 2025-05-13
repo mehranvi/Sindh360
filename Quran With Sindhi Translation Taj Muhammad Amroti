@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="sd">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sindh360 - قرآن پاڪ</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lateef&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Lateef', serif;
+      background: #fdfaf6;
+      margin: 0;
+      padding: 0;
+      direction: rtl;
+      text-align: right;
+    }
+    header {
+      background-color: #00897b;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .container {
+      padding: 1rem;
+    }
+    .surah {
+      margin: 1rem 0;
+      padding: 1rem;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    audio {
+      width: 100%;
+      margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>قرآن پاڪ - سنڌي ترجمي سان</h1>
+  </header>
+  <div class="container">
+    <div class="surah">
+      <h2>سورة الفاتحة</h2>
+      <p>بِسْمِ اللّٰہِ الرَّحْمٰنِ الرَّحِیْمِ۔ سڀ تعريفون الله لاءِ آهن، جو سڀني جهانن جو پالڻهار آهي...</p>
+      <audio controls>
+        <source src="audio/fatiha.mp3" type="audio/mp3">
+        توھان جو برائوزر آڊيو سپورٽ نٿو ڪري.
+      </audio>
+    </div>
+    <!-- وڌيڪ سورتون هتي شامل ڪريو -->
+  </div>
+</body>
+</html>
