@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="sd">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quran - Sindh360</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <style>
+    body { font-family: 'Lateef', serif; background-color: #f0f8ff; padding: 10px; }
+    .surah { margin-bottom: 25px; border-bottom: 1px solid #ccc; padding-bottom: 15px; }
+    .ayah { margin: 10px 0; }
+    audio { width: 100%; margin-top: 10px; }
+    h2 { color: #008080; }
+    .surah-title { background: #e0ffff; padding: 10px; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <h1>Sindh360: قرآن پاڪ (سندھي ترجمي سان)</h1>  <div class="surah">
+    <div class="surah-title">
+      <h2>سورت الفاتحہ</h2>
+    </div><div class="ayah">
+  <strong>1.</strong> بسم الله الرحمن الرحيم <br>
+  <em>الرحمٰن، جو نهايت مهربان ۽ رحم ڪندڙ آهي.</em>
+</div>
+
+<div class="ayah">
+  <strong>2.</strong> الحمد لله رب العالمين <br>
+  <em>سارا تعريف الله لاءِ آهي، جيڪو رب آهي سڀني جهانن جو.</em>
+</div>
+
+<!-- مزيد آيتون هتي شامل ڪريو -->
+
+<audio controls>
+  <source src="../audio/surah-fatiha.mp3" type="audio/mpeg">
+  توھان جو برائوزر آڊيو کي سپورٽ نه ٿو ڪري.
+</audio>
+
+  </div>  <!-- ٻي سورتون هتي شامل ٿينديون --></body>
+</html>
